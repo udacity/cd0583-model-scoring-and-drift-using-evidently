@@ -27,6 +27,7 @@ git clone https://github.com/udacity/cd0583-model-scoring-and-drift-using-eviden
 ```
 
 **Repository Structure**
+
 ![Directory Tree](./images/tree.png)
 - `static` folder: contains the .html files generated in Heroku.
 - `Procfile`: to get the necessary commands working in Heroku.
