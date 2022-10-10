@@ -69,7 +69,7 @@ The `main.py` file works on monitoring bike demand data. It involves the followi
 
     data_drift_dashboard.save("./static/data_drift_dashboard_after_week1.html")
     ```
-    >Note: We have implemented the code to calculate data drift for Week 1, and 2.
+    >Note: We have implemented the code to calculate data drift for Week 1 and 2.
 
 ### Deploying on Heroku, evaluating model performance, and calculating data drift
 
